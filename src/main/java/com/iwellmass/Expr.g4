@@ -9,7 +9,7 @@ stat: expr NEWLINE          # printexpr
 
 expr: expr op=(MUL|DIV) expr        # MulDiv
     | expr op=(ADD|SUB) expr        # AddSub
-    | INT                           # expr
+    | INT                           # int
     | ID                            # id
     | '(' expr ')'                  # parens
 ;
