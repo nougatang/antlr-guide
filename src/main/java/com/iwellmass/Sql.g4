@@ -2,7 +2,7 @@ grammar Sql;
 
 prog : stat+;
 
-stat: expr NEWLINE          # printsqlstat
+stat: e NEWLINE          # printsqlstat
     | NEWLINE               # blank
     ;
 
@@ -11,7 +11,7 @@ expr: expr op=(MUL|DIV) expr        # MulDiv
     | INT                           # int
     | ID                            # id
     | '(' expr ')'                  # parens
-;
+    ;
 
 sqlstat : 'select' item 'from' ID (wherestat)?
         ;
@@ -31,6 +31,27 @@ operator : retstat
          | 'break' ';'
          | 'continue' ';'
          ;
+
+e : e '*' e # MUL
+  | e '+' e # ADD
+  | INT     # INT
+  ;
+
+inc : e '++' ;
+
+field : e '.' e ;
+
+s : field
+        {
+        List<EContext> x=$field.ctx.e();
+        }
+  ;
+
+state : 'return' value=e ';' #Return
+      | 'break' ';' #Break
+      ;
+
+
 
 MUL : '*' ; // assigns token name to '*' used above in grammar
 DIV : '/' ;

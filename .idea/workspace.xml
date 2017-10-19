@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b488e62d-6908-40dc-8bbb-ac67d79efcf3" name="Default" comment="init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/QQ截图20171012144101.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/iwellmass/Sql.g4" />
+    <list default="true" id="b488e62d-6908-40dc-8bbb-ac67d79efcf3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Antlr-Demo.iml" afterPath="$PROJECT_DIR$/Antlr-Demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4" afterPath="$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/iwellmass/Sql.g4" afterPath="$PROJECT_DIR$/src/main/java/com/iwellmass/Sql.g4" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,34 +24,147 @@
       <file leaf-file-name="Expr.g4" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="138">
+              <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="E.g4" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/E.g4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="108" column="8" lean-forward="false" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sql.g4" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sql.g4" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/Sql.g4">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="42" />
+            <state relative-caret-position="258">
+              <caret line="49" column="2" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExprListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExprVisitor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExprBaseListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprBaseListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2185">
+              <caret line="115" column="7" lean-forward="false" selection-start-line="115" selection-start-column="7" selection-end-line="115" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExprLexer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprLexer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExprParser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="392" column="13" lean-forward="false" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
+              <folding>
+                <element signature="e#1818#1819#0" expanded="true" />
+                <element signature="e#1842#1843#0" expanded="true" />
+                <element signature="e#1892#1893#0" expanded="true" />
+                <element signature="e#1916#1917#0" expanded="true" />
+                <element signature="e#2414#2415#0" expanded="true" />
+                <element signature="e#2464#2465#0" expanded="true" />
+                <element signature="e#2499#2500#0" expanded="true" />
+                <element signature="e#2550#2551#0" expanded="true" />
+                <element signature="e#2618#2619#0" expanded="true" />
+                <element signature="e#2655#2656#0" expanded="true" />
+                <element signature="e#4124#4125#0" expanded="true" />
+                <element signature="e#4161#4162#0" expanded="true" />
+                <element signature="e#4293#4294#0" expanded="true" />
+                <element signature="e#4321#4322#0" expanded="true" />
+                <element signature="e#5142#5143#0" expanded="true" />
+                <element signature="e#5193#5194#0" expanded="true" />
+                <element signature="e#6034#6035#0" expanded="true" />
+                <element signature="e#6085#6086#0" expanded="true" />
+                <element signature="e#7959#7960#0" expanded="true" />
+                <element signature="e#7996#7997#0" expanded="true" />
+                <element signature="e#8128#8129#0" expanded="true" />
+                <element signature="e#8156#8157#0" expanded="true" />
+                <element signature="e#8246#8247#0" expanded="true" />
+                <element signature="e#8297#8298#0" expanded="true" />
+                <element signature="e#9009#9010#0" expanded="true" />
+                <element signature="e#9059#9060#0" expanded="true" />
+                <element signature="e#9094#9095#0" expanded="true" />
+                <element signature="e#9145#9146#0" expanded="true" />
+                <element signature="e#9993#9994#0" expanded="true" />
+                <element signature="e#10043#10044#0" expanded="true" />
+                <element signature="e#10078#10079#0" expanded="true" />
+                <element signature="e#10129#10130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="23">
+                <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Expr.tokens" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/Expr.tokens">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractParseTreeVisitor.class" pinned="false" current-in-tab="false">
+        <entry file="jar://E:/Software/apache-maven-3.1.1/.m2/repository/org/antlr/antlr4-runtime/4.7/antlr4-runtime-4.7.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -79,9 +191,11 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/iwellmass/gen/EListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprListener.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4" />
         <option value="$PROJECT_DIR$/src/main/java/com/iwellmass/Sql.g4" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iwellmass/Init.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprParser.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -105,10 +219,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="443" />
     <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -167,6 +281,41 @@
               <item name="Antlr-Demo" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Antlr-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Antlr-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Antlr-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Antlr-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Antlr-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Antlr-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Antlr-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Antlr-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iwellmass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Antlr-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Antlr-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iwellmass" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -178,7 +327,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/iwellmass" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprVisitor.java" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -195,6 +344,7 @@
     <property name="$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4::/package" value="com.iwellmass.demo" />
     <property name="$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4::/gen-listener" value="true" />
     <property name="$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4::/gen-visitor" value="true" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprVisitor.java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -307,7 +457,7 @@
       <option name="presentableId" value="Default" />
       <updated>1507698566529</updated>
       <workItem from="1507698568189" duration="9535000" />
-      <workItem from="1507771995451" duration="11948000" />
+      <workItem from="1507771995451" duration="19708000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1507778375171</created>
@@ -344,44 +494,58 @@
       <option name="project" value="LOCAL" />
       <updated>1507778913524</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init">
+      <created>1507790545576</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1507790545576</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init">
+      <created>1507790610790</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507790610790</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21483000" />
+    <option name="totallyTimeSpent" value="29243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17757511" sideWeight="0.4931973" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5284738" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="ANTLR Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.56585366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17757511" sideWeight="0.4931973" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.50680274" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -426,7 +590,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gen/com/iwellmass/ExprBaseListener.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprLexer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/gen/EListener.java" />
     <entry file="jar://E:/Software/apache-maven-3.1.1/.m2/repository/org/antlr/antlr4-runtime/4.7/antlr4-runtime-4.7.jar!/org/antlr/v4/runtime/tree/ParseTreeListener.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -436,63 +599,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprBaseVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="320" column="24" lean-forward="false" selection-start-line="320" selection-start-column="24" selection-end-line="320" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprBaseListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -507,9 +617,149 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/Sql.g4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="42" />
+        <state relative-caret-position="258">
+          <caret line="49" column="2" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/apache-maven-3.1.1/.m2/repository/org/antlr/antlr4-runtime/4.7/antlr4-runtime-4.7.jar!/org/antlr/v4/runtime/tree/AbstractParseTreeVisitor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Software/apache-maven-3.1.1/.m2/repository/org/antlr/antlr4-runtime/4.7/antlr4-runtime-4.7.jar!/org/antlr/v4/runtime/ParserRuleContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/Init.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2339">
+          <caret line="110" column="17" lean-forward="false" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprLexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/Expr.g4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprBaseVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-788">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprBaseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="115" column="7" lean-forward="false" selection-start-line="115" selection-start-column="7" selection-end-line="115" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/Expr.tokens">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/iwellmass/demo/ExprParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="392" column="13" lean-forward="false" selection-start-line="392" selection-start-column="13" selection-end-line="392" selection-end-column="13" />
+          <folding>
+            <element signature="e#1818#1819#0" expanded="true" />
+            <element signature="e#1842#1843#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#2414#2415#0" expanded="true" />
+            <element signature="e#2464#2465#0" expanded="true" />
+            <element signature="e#2499#2500#0" expanded="true" />
+            <element signature="e#2550#2551#0" expanded="true" />
+            <element signature="e#2618#2619#0" expanded="true" />
+            <element signature="e#2655#2656#0" expanded="true" />
+            <element signature="e#4124#4125#0" expanded="true" />
+            <element signature="e#4161#4162#0" expanded="true" />
+            <element signature="e#4293#4294#0" expanded="true" />
+            <element signature="e#4321#4322#0" expanded="true" />
+            <element signature="e#5142#5143#0" expanded="true" />
+            <element signature="e#5193#5194#0" expanded="true" />
+            <element signature="e#6034#6035#0" expanded="true" />
+            <element signature="e#6085#6086#0" expanded="true" />
+            <element signature="e#7959#7960#0" expanded="true" />
+            <element signature="e#7996#7997#0" expanded="true" />
+            <element signature="e#8128#8129#0" expanded="true" />
+            <element signature="e#8156#8157#0" expanded="true" />
+            <element signature="e#8246#8247#0" expanded="true" />
+            <element signature="e#8297#8298#0" expanded="true" />
+            <element signature="e#9009#9010#0" expanded="true" />
+            <element signature="e#9059#9060#0" expanded="true" />
+            <element signature="e#9094#9095#0" expanded="true" />
+            <element signature="e#9145#9146#0" expanded="true" />
+            <element signature="e#9993#9994#0" expanded="true" />
+            <element signature="e#10043#10044#0" expanded="true" />
+            <element signature="e#10078#10079#0" expanded="true" />
+            <element signature="e#10129#10130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
